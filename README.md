@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [3731-find-missing-elements](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3731-find-missing-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
