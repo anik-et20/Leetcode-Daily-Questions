@@ -97,14 +97,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
