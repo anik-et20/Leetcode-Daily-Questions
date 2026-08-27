@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3731-find-missing-elements/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
