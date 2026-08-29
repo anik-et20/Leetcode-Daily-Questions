@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0101-symmetric-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -164,4 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
