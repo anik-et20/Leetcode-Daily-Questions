@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
