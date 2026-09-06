@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -199,5 +201,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0015-3sum/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
