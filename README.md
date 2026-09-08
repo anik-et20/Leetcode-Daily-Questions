@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
