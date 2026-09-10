@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3731-find-missing-elements/) | Easy |
