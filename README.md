@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
