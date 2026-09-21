@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Linked List
