@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
+| [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
