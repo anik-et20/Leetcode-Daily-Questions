@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
