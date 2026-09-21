@@ -2,10 +2,10 @@ class Solution {
     public int[] runningSum(int[] nums) {
         int n = nums.length;
         int arr[] = new int[n];
-        arr[0] = nums[0];
-        if(n == 1) return arr;
-        for(int i=1; i<n; i++){
-            arr[i] = nums[i] + arr[i-1];
+        int sum = 0;
+        for(int i=0; i<n; i++){
+            arr[i] = nums[i]+sum;
+            sum += nums[i];
         }
         return arr;
     }
