@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
