@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0278-first-bad-version](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
@@ -287,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
