@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0069-sqrtx/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0278-first-bad-version](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0367-valid-perfect-square/) | Easy |
