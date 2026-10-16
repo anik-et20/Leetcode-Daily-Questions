@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -328,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
