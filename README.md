@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
@@ -333,5 +336,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
