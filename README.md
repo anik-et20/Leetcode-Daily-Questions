@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [1154-day-of-the-year](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1154-day-of-the-year/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1154-day-of-the-year](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1154-day-of-the-year/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
