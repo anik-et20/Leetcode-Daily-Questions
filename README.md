@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -366,4 +368,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
