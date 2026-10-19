@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
@@ -360,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
