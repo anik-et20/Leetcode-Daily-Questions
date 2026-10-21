@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0743-network-delay-time](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0743-network-delay-time/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
@@ -283,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0441-arranging-coins/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -382,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -408,4 +415,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
