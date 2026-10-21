@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0881-boats-to-save-people](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Ordered Set
