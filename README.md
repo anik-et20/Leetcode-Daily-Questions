@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0605-can-place-flowers/) | Easy |
+| [0682-baseball-game](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0867-transpose-matrix/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0682-baseball-game](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0867-transpose-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Tree
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
