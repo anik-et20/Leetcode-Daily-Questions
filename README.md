@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
