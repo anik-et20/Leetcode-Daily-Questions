@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0041-first-missing-positive/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0242-valid-anagram](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0015-3sum/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
