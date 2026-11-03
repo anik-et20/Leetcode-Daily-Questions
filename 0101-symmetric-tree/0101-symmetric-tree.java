@@ -14,19 +14,22 @@
  * }
  */
 class Solution {
-    public boolean check(TreeNode root1, TreeNode root2){
-        if(root1 == null && root2 == null){
+    public boolean check(TreeNode p1, TreeNode p2){
+        if(p1 == null && p2 == null){
             return true;
         }
-        if((root1 == null && root2 != null) || (root1 != null && root2 == null)){
+        if((p1 == null && p2 != null) || (p1 != null && p2 == null) || (p1.val != p2.val)){
+            return false;
+        } 
+        // if(p1.val != p2.val){
+        //     return false;
+        // }
+        boolean a1 = check(p1.left, p2.right);
+        boolean a2 = check(p1.right, p2.left);
+        if(a1 == false || a2 == false){
             return false;
         }
-        if(root1.val != root2.val){
-            return false;
-        }
-        boolean a1 = check(root1.left, root2.right);
-        boolean a2 = check(root1.right, root2.left);
-        return a1 && a2;
+        return true;
     }
     public boolean isSymmetric(TreeNode root) {
         return check(root, root);
