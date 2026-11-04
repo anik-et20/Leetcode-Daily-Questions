@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1943-describe-the-painting](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1943-describe-the-painting/) | Medium |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0441-arranging-coins/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -326,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0567-permutation-in-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Linked List
