@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/anik-et20/Leetcode-Daily-Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
